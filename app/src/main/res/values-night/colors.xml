@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2979FF</color>
+    <color name="colorPrimaryDark">#2962FF</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#757575</color>
+    <color name="dark_gray">#BDBDBD</color>
+    <color name="message_bubble_incoming">#263238</color>
+    <color name="message_bubble_outgoing">#1B5E20</color>
+    <color name="offline_indicator">#F44336</color>
+</resources> 

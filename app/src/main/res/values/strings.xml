@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PieSocket Chat</string>
+    <string name="no_chats_available">No chats available</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="error_connecting_to_server">Error connecting to server</string>
+    <string name="message_queued">Message queued and will be sent when online</string>
+    <string name="message_sent">Sent</string>
+    <string name="message_delivered">Delivered</string>
+    <string name="message_read">Read</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message</string>
+    <string name="supportbot">SupportBot</string>
+    <string name="salesbot">SalesBot</string>
+    <string name="faqbot">FAQBot</string>
+    <string name="connection_restored">Connection restored</string>
+    <string name="offline_mode">You are in offline mode</string>
+    <string name="new_chat">New Chat</string>
+</resources> 

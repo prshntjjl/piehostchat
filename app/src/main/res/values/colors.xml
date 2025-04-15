@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryLight">#BB86FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="dark_gray">#616161</color>
+    <color name="message_bubble_incoming">#F3E5F5</color>
+    <color name="message_bubble_outgoing">#E8F5E9</color>
+    <color name="message_text_incoming">#212121</color>
+    <color name="message_text_outgoing">#212121</color>
+    <color name="chat_background">#F5F5F5</color>
+    <color name="time_text_color">#757575</color>
+    <color name="offline_indicator">#CF6679</color>
+    <color name="chat_item_background">#FFFFFF</color>
+    <color name="chat_item_title">#212121</color>
+    <color name="chat_item_subtitle">#757575</color>
+    <color name="chat_item_unread_badge">#6200EE</color>
+    <color name="chat_item_divider">#E0E0E0</color>
+</resources> 
